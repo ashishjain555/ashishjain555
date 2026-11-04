@@ -7,7 +7,6 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ashishjain555&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-orange?style=for-the-badge" alt="Location" />
   </p>
