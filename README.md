@@ -78,11 +78,6 @@ const ashish = {
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishjain555&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjain555&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Top Languages" />
-</div>
-
 <div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjain555&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" height="170" alt="GitHub Streak" />
 </div>
